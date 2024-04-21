@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f2f2f2;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .buttons {
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #yesBtn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  #noBtn {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  #message {
+    margin-top: 30px;
+    display: none;
+    color: #333;
+  }
+  img {
+    width: %;
+   height: 50%; 
+  }
+  section{
+    display:flex;
+  }
